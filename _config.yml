@@ -11,7 +11,7 @@ app:
   name: EleverD # REQUIRED - Enter your app name
   android_id: com.ajou.eleverd # Optional - Enter Android app id like: com.example.app
 
-  icon: images/logo.png
+  icon: images/hi.png
   
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -85,7 +85,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: http://blog.fursys.com/wp-content/uploads/2015/04/walking_in_the_city_01.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: images/ela.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
