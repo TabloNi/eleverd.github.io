@@ -23,7 +23,7 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: images/plzz.png
+  screenshot: images/bg.png
   
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
