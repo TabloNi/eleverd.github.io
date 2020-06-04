@@ -11,7 +11,7 @@ app:
   name: EleverD # REQUIRED - Enter your app name
   android_id: com.ajou.eleverd # Optional - Enter Android app id like: com.example.app
 
-  icon: images/app-icon-512.jpg
+  icon: images/eleverd_logo.png
   
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
