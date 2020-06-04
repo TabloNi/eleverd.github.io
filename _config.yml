@@ -23,7 +23,7 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: images/plz.png
+  screenshot: images/plzz.png
   
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -78,7 +78,7 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: ipod-touch-blue-vertical # REQUIRED
+device: iphone-se-silver-vertical # REQUIRED
 
 #
 # Theme Settings
