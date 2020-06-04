@@ -8,10 +8,12 @@
 # General App Info
 #
 app:
-  name: Eleverd # REQUIRED - Enter your app name
+  name: EleverD # REQUIRED - Enter your app name
   android_id: com.ajou.eleverd # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/app-icon-512.jpg
+  
+  # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -41,7 +43,7 @@ app:
 #
 # Marketing
 #
-marketing_header: EleverD # Optional
+marketing_header: 새로운 발걸음의 시작? # Optional
 marketing_desc: 엘리버드는 킹짱짱 앱입니당 ㅎㅎ;
 
 #
@@ -50,11 +52,11 @@ marketing_desc: 엘리버드는 킹짱짱 앱입니당 ㅎㅎ;
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://github.com/EleverD
-  facebook: https://www.facebook.com/EleverD-%EC%97%98%EB%A6%AC%EB%B2%84%EB%94%94-103132948000641
+  github: /EleverD
+  facebook: /EleverD-%EC%97%98%EB%A6%AC%EB%B2%84%EB%94%94-103132948000641
   twitter:
   pinterest:
-  instagram: https://www.instagram.com/eleverd_official/
+  instagram: /eleverd_official/
   email: eleverd@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -105,7 +107,7 @@ google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tra
 #
 
 # The release of Awesome App Landing Page that you're using
-version: v1.0
+version: v1.2
 
 # Set the Sass partials directory, as we're using @imports
 sass:
