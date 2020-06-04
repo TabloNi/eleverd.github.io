@@ -45,8 +45,11 @@ app:
 #
 # Marketing
 #
-marketing_header: 새로운 발걸음의 시작? # Optional
-marketing_desc: 엘리버드는 킹짱짱 앱입니당 ㅎㅎ;
+marketing_header: 건강관리의 해답, 일상에서 찾다 # Optional
+marketing_desc: 안녕하세요. 저희는 아주대학교 파란학기팀 EleverD입니다. 
+저희는 복약순응도 증진을 목표로, 복약알림 어플과 어플과 연동된 스마트 약통을 개발 하는 등 다양한 활동을 진행해 왔습니다.
+현재 아래의 다운로드 버튼을 눌러 어플을 다운로드 하실 수 있습니다.
+감사합니다!
 
 #
 # Social Links
